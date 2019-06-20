@@ -1,2 +1,2 @@
-# first-gradle-demo
-this is my first grade demo
+# csy project of Rectangle
+this is my project of Rectangle
